@@ -6,7 +6,7 @@
 # Grid View for ASP.NET Web Forms - How to save and restore the client layout
 
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4437/)**
+**[[Run Online]](https://codecentral.devexpress.com/128541128/)**
 <!-- run online end -->
 
 This example demonstrates how to save and restore the client layout of the Grid View control. In the example, the [session state](https://learn.microsoft.com/en-us/dotnet/api/system.web.httpcontext.session?view=netframework-4.8.1) stores the grid layout in XML format. You can use any other storage instead of the session state.
